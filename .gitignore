@@ -1,3 +1,4 @@
 password.js
 .idea
 *.xml
+node_modules/
